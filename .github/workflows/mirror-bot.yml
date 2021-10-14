@@ -8,9 +8,9 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "hiteshkamble920@gmail.com"
-  GitHubName: "hitesh920" 
-  Branch: "master"
+  GitHubMail: "atharv2951@gmail.com"
+  GitHubName: "atharv2951" 
+  Branch: "main"
 
 jobs:
   build:
